@@ -7,6 +7,5 @@ for i in xrange(len(string)-1,-1,-1):
     elif(string[i]=='1' and not flip):
         ans+=1
         flip=not flip
-    print flip,ans
 print ans
     
