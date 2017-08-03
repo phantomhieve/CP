@@ -13,7 +13,7 @@ def subset(array,l,r,ans):
         return
     subset(array, l+1, r, ans+array[l]);
     subset(array, l+1, r, ans);
-subset(array,0,4,0)
+subset(array,0,15,0)
 for _ in range(input()):
     num=input()
     if num in d:
