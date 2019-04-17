@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "iosfwd": "cpp",
-        "iterator": "cpp",
-        "vector": "cpp",
-        "random": "cpp",
-        "iostream": "cpp"
-    }
-}
